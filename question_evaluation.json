@@ -1,0 +1,735 @@
+
+
+ {"questions": [
+
+
+ {"id": 0,
+ "question": "متى توفي ابولونيوس الرودسي ؟",
+"type":"date",
+"keywords":"توفي",
+"resources":"ابولونيوس الرودسي"
+ },
+
+
+
+ {"id": 1,
+"question":"متى ولد ارام الاول؟",
+"type":"date",
+"keywords":"ولد",
+"resources":"ارام الاول"
+
+ },
+
+
+
+ {"id": 2,
+"question":"ما هي جنسية افرا بن ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"افرا بن"
+ },
+
+
+
+ {"id": 3,
+"question":"ما هي مواطنة انيسة بومدين ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"انيسة بومدين"
+
+ },
+
+
+
+ {"id": 4,
+"question":"اين ولدت لالة خيرة ؟",
+"type":"place",
+"keywords":"ولدت",
+"resources":"لالة خيرة"
+
+ },
+
+
+
+ {"id": 5,
+"question":"من هي زوجة انيبال كافاكو سيلفا ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"انيبال كافاكو سيلفا"
+
+ },
+
+
+
+
+
+ {"id": 6,
+"question":"ما هي مواطنة انطونيو؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"انطونيو"
+
+ },
+
+
+
+ {"id": 7,
+"question":"ما هي شهرة انتوان رايت ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"انتوان رايت"
+
+ },
+
+
+
+ {"id": 8,
+"question":"اين يقيم انتوان بوسي ؟",
+"type":"place",
+"keywords":"يقيم",
+"resources":"انتوان بوسي"
+
+ },
+
+
+
+ {"id": 9,
+"question":"اين ولد الياس زرهوني ؟",
+"type":"place",
+"keywords":"ولد",
+"resources":"الياس زرهوني"
+ },
+
+
+
+
+ {"id": 10,
+"question":"ما هي جنسية ايغاس مونيز ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"ايغاس مونيز"
+ },
+
+
+
+
+ {"id": 11,
+"question":"ما هي ديانة بليناس الحكيم ؟",
+"type":"thing",
+"keywords":"ديانة",
+"resources":"بليناس الحكيم"
+ },
+
+ {"id": 12,
+"question":"من هي زوجة عبد القادر الجزائري ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"عبد القادر الجزائري"
+ },
+
+ {"id": 13,
+"question":"ما هو لقب مالك بن نبي ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"مالك بن نبي"
+ },
+
+ {"id": 14,
+"question":"ما هي شهرة هواري بومدين ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"هواري بومدين"
+ },
+
+ {"id": 15,
+"question":"ما هي مهنة يونس حامد المصري ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"يونس حامد المصري"
+ },
+
+ {"id": 16,
+"question":"اين توفي يونان لبيب رزق ؟",
+"type":"place",
+"keywords":"توفي",
+"resources":"يونان ل بيب رزق"
+ },
+
+ {"id": 17,
+"question":"ما هي جنسية يوغيلا ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"يوغيلا"
+ },
+
+ {"id": 18,
+"question":"ما هو لقب يوسيف ماسوبست ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"يوسيف ماسوبست"
+ },
+
+ {"id": 19,
+"question":"ما هي مواطنة يوسف يوسفي ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"يوسف يوسفي"
+ },
+
+ {"id": 20,
+"question":"ما هي ديانة يوحنا بطرس الحاج ؟",
+"type":"thing",
+"keywords":"ديانة",
+"resources":"يوحنا بطرس الحاج"
+ },
+
+ {"id": 21,
+"question":"ما هي شهرة يوجين ساندرو ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"يوجين ساندرو"
+ },
+
+ {"id": 22,
+"question":"متى توفي يوب ديرفال ؟",
+"type":"date",
+"keywords":"توفي",
+"resources":"يوب ديرفال"
+ },
+
+ {"id": 23,
+"question":"متى ولد يو درويش ؟",
+"type":"date",
+"keywords":"ولد",
+"resources":"يو درويش"
+ },
+
+ {"id": 24,
+"question":"ما هو شهرة يهودا اشلق ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"يهودا اشلق"
+ },
+
+ {"id": 25,
+"question":"ما هي جنسية ينس موريس ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"ينس موريس"
+ },
+
+ {"id": 26,
+"question":"ما هو اصل يمينة بن قيقي ؟",
+"type":"thing",
+"keywords":"اصل",
+"resources":"يمينة بن قيقي"
+ },
+
+ {"id": 27,
+"question":"ما هي مهنة يميشجي حسن باشا ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"يميشجي حسن باشا"
+ },
+
+ {"id": 28,
+"question":"كم عدد ابناء يلماز اردغان ؟",
+"type":"count",
+"keywords":"ابناء",
+"resources":"يلماز اردغان"
+ },
+
+ {"id": 29,
+"question":"من هي زوجة يعقوب لورانس ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"يعقوب لورانس"
+ },
+
+ {"id": 30,
+"question":"اين درس يشار كمال ؟",
+"type":"place",
+"keywords":"درس",
+"resources":"يشار كمال"
+ },
+
+ {"id": 31,
+"question":"ما هي ديانة يسعد ربراب ؟",
+"type":"thing",
+"keywords":"ديانة",
+"resources":"يسعد ربراب"
+ },
+
+ {"id": 32,
+"question":"اين تقيم يسرى مارديني ؟",
+"type":"place",
+"keywords":"تقيم",
+"resources":"يسرى مارديني"
+ },
+
+ {"id": 33,
+"question":"اين ولد يحي عياش ؟",
+"type":"place",
+"keywords":"ولد",
+"resources":"يحي عياش"
+ },
+
+ {"id": 34,
+"question":"ما هي جنسية ياي جيانيانغ ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"ياي جيانيانغ"
+ },
+
+ {"id": 35,
+"question":"اين يقيم يان فاسك ؟",
+"type":"place",
+"keywords":"يقيم",
+"resources":"يان فاسك"
+ },
+
+ {"id": 36,
+"question":"ما هي مهنة ياسين هيما ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"ياسين هيما"
+ },
+
+ {"id": 37,
+"question":"ما هو اسم ياسين الهاشمي ؟",
+"type":"thing",
+"keywords":"اسم",
+"resources":"ياسين الهاشمي"
+ },
+
+ {"id": 38,
+"question":"اين درس ياسين الحاج صالح ؟",
+"type":"place",
+"keywords":"درس",
+"resources":"ياسين الحاج صالح"
+ },
+
+ {"id": 39,
+"question":"كم عدد ابناء ياسمينا رضا ؟",
+"type":"count",
+"keywords":"ابناء",
+"resources":"ياسمينا رضا"
+ },
+
+ {"id": 40,
+"question":"ما هو اسم لياسر ثابت ؟",
+"type":"thing",
+"keywords":"اسم",
+"resources":"ياسر ثابت"
+ },
+
+ {"id": 41,
+"question":"ما هي مهنة يارا شهيدي ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"يارا شهيدي"
+ },
+
+ {"id": 42,
+"question":"ما هو لقب وينتورث ميلر ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"وينتورث ميلر"
+ },
+
+ {"id": 43,
+"question":"اين ولد وين ريني ؟",
+"type":"place",
+"keywords":"ولد",
+"resources":"وين ريني"
+ },
+
+ {"id": 44,
+"question":"ما هو لقب ويم هوف ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"ويم هوف"
+ },
+
+ {"id": 45,
+"question":"ما هي جنسية ويليس كارير ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"ويليس كارير"
+ },
+
+ {"id": 46,
+"question":"من هي زوجة ويليام وايلر ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"ويليام وايلر"
+ },
+
+ {"id": 47,
+"question":"متى ولد ويليام هنري براغ ؟",
+"type":"date",
+"keywords":"ولد",
+"resources":"ويليام هنري براغ"
+ },
+
+ {"id": 48,
+"question":"ما هي مواطنة ويليام موريس ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"ويليام موريس"
+ },
+
+ {"id": 49,
+"question":"متى توفي وهبي البوري ؟",
+"type":"date",
+"keywords":"توفي",
+"resources":"وهبي البوري"
+ },
+
+ {"id": 50,
+"question":"ما هي مهنة وليم فولتر ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"وليم فولتر"
+ },
+
+ {"id": 51,
+"question":"اين يقيم وليد فارس ؟",
+"type":"place",
+"keywords":"يقيم",
+"resources":"وليد فارس"
+ },
+
+ {"id": 52,
+"question":"ما هو لقب وليام كلارك ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"وليام كلارك"
+ },
+
+ {"id": 53,
+"question":"ما هي جنسية هوغو بلاك ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"هوغو بلاك"
+ },
+
+ {"id": 54,
+"question":"اين توفي هشام حافظ ؟",
+"type":"place",
+"keywords":"توفي",
+"resources":"هشام حافظ"
+ },
+
+ {"id": 55,
+"question":"من هي زوجة نيل تايسون ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"نيل تايسون"
+ },
+
+ {"id": 56,
+"question":"كم عدد ابناء نوري المالكي ؟",
+"type":"count",
+"keywords":"ابناء",
+"resources":"نوري المالكي"
+ },
+
+ {"id": 57,
+"question":"من هو زوج نور الطيب ؟",
+"type":"person",
+"keywords":"زوج",
+"resources":"نور الطيب"
+ },
+
+ {"id": 58,
+"question":"ما هي مواطنة نور الدين مصالحة؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"نور الدين مصالحة"
+ },
+
+ {"id": 59,
+"question":"ما جنسية نوح نجيني ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"نوح نجيني"
+ },
+
+ {"id": 60,
+"question":"ما هو اسم لنعيم الغرياني ؟",
+"type":"thing",
+"keywords":"اسم",
+"resources":"نعيم الغرياني"
+ },
+
+ {"id": 61,
+"question":"اين توفي نعوم مكرزل ؟",
+"type":"place",
+"keywords":"توفي",
+"resources":"نعوم مكرزل"
+ },
+
+ {"id": 62,
+"question":"ما هو لقب نسيم حميد ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"نسيم حميد"
+ },
+
+ {"id": 63,
+"question":"ما هي جنسية نزار قباني ؟",
+"type":"place",
+"keywords":"جنسية",
+"resources":"نزار قباني"
+ },
+
+ {"id": 64,
+"question":"ما هي وظيفة نرجس النجار ؟",
+"type":"thing",
+"keywords":"وظيفة",
+"resources":"نرجس النجار"
+ },
+
+ {"id": 65,
+"question":"اين ولدت ندى الباهي ؟",
+"type":"place",
+"keywords":"ولدت",
+"resources":"ندى الباهي"
+ },
+
+ {"id": 66,
+"question":"ما هي مواطنة نجيب محفوظ ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"نجيب محفوظ"
+ },
+
+ {"id": 67,
+"question":"ما هو لقب نجوى قاسم ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"نجوى قاسم"
+ },
+
+ {"id": 68,
+"question":"متى ولد نبيل العربي ؟",
+"type":"date",
+"keywords":"ولد",
+"resources":"نبيل العربي"
+ },
+
+ {"id": 69,
+"question":"ما هي جنسية نانسي خضوري ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"نانسي خضوري"
+ },
+
+ {"id": 70,
+"question":"ما هي مهنة ناظر محمد ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"ناظر محمد"
+ },
+
+ {"id": 71,
+"question":"من هو زوج نادية فارس ؟",
+"type":"person",
+"keywords":"زوج",
+"resources":"نادية فارس"
+ },
+
+ {"id": 72,
+"question":"ما هو شهرة نادر الذهبي ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"نادر الذهبي"
+ },
+
+ {"id": 73,
+"question":"متى توفي منير احمد خان ؟",
+"type":"date",
+"keywords":"توفي",
+"resources":"منير احمد خان"
+ },
+
+ {"id": 74,
+"question":"ما هي جنسية منذر القباني ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"منذر القباني"
+ },
+
+ {"id": 75,
+"question":"ما هو شهرة مصطفى السيد ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"مصطفى السيد"
+ },
+
+ {"id": 76,
+"question":"كم عدد ابناء محمود عباس ؟",
+"type":"count",
+"keywords":"ابناء",
+"resources":"محمود عباس"
+ },
+
+ {"id": 77,
+"question":"ما هي مواطنة ماهر الاسد ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"ماهر الاسد"
+ },
+
+ {"id": 78,
+"question":"متى ولدت ليلى مراد ؟",
+"type":"date",
+"keywords":"ولدت",
+"resources":"ليلى مراد"
+ },
+
+ {"id": 79,
+"question":"اين ولد كمال الملك ؟",
+"type":"place",
+"keywords":"ولد",
+"resources":" كمال الملك"
+ },
+
+ {"id": 80,
+"question":"ما هي مهنة فهد المبارك ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"فهد المبارك"
+ },
+
+ {"id": 81,
+"question":"من هي زوجة عمرو خالد ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"عمرو خالد"
+ },
+
+ {"id": 82,
+"question":"ما هو لقب عبد الباسط عبد الصمد ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"عبد الباسط عبد الصمد"
+ },
+
+ {"id": 83,
+"question":"متى ولد طه حسين ؟",
+"type":"date",
+"keywords":"ولد",
+"resources":"طه حسين"
+ },
+
+ {"id": 84,
+"question":"ما اسم طارق بن زياد ؟",
+"type":"thing",
+"keywords":"اسم",
+"resources":"طارق بن زياد"
+ },
+
+ {"id": 85,
+"question":"ما هي مهنة ستيفن ماير ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"ستيفن ماير"
+ },
+
+ {"id": 86,
+"question":"متى توفيت سارة جاكسون ؟",
+"type":"date",
+"keywords":"توفيت",
+"resources":"سارة جاكسون"
+ },
+
+ {"id": 87,
+"question":"ما هي جنسية زكي نجيب محفوظ ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"زكي نجيب محفوظ"
+ },
+
+ {"id": 88,
+"question":"ما هي مواطنة ديفيد وولف ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"ديفيد وولف"
+ },
+
+ {"id": 89,
+"question":"ما هو لقب ديدوش مراد ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"ديدوش مراد"
+ },
+
+ {"id": 90,
+"question":"ما هي جنسية دان ماكينزي ؟",
+"type":"thing",
+"keywords":"جنسية",
+"resources":"دان ماكينزي"
+ },
+
+ {"id": 91,
+"question":"ما هي مهنة جون سميث ؟",
+"type":"thing",
+"keywords":"مهنة",
+"resources":"جون سميث"
+ },
+
+ {"id": 92,
+"question":"ما هي مواطنة جون دافيد موريس ؟",
+"type":"thing",
+"keywords":"مواطنة",
+"resources":"جون دافيد موريس"
+ },
+
+ {"id": 93,
+"question":"اين توفي توفيق الكيم ؟",
+"type":"place",
+"keywords":"توفي",
+"resources":"توفيق الحكيم"
+ },
+
+ {"id": 94,
+"question":"من هي زوجة بيل غيتس ؟",
+"type":"person",
+"keywords":"زوجة",
+"resources":"بيل غيتس"
+ },
+
+ {"id": 95,
+"question":"من هو ابن امنة بنت وهب ؟",
+"type":"person",
+"keywords":"ابن",
+"resources":"امنة بنت وهب"
+ },
+
+ {"id": 96,
+"question":"ما هو شهرة ابو بكر الرازي ؟",
+"type":"thing",
+"keywords":"شهرة",
+"resources":"ابو بكر الرازي"
+ },
+
+ {"id": 97,
+"question":"ما هو لقب ابو بكر الصديق ؟",
+"type":"thing",
+"keywords":"لقب",
+"resources":"ابو بكر الصديق"
+ },
+
+ {"id": 98,
+"question":"اين يقيم ادولف هتلر ؟",
+"type":"place",
+"keywords":"يقيم",
+"resources":"ادولف هتلر"
+ },
+
+ {"id": 99,
+"question":"ما هي مهنة ارخميدس ؟",
+"type":"thing",
+"keywords":"مهنة","resources":"ارخميدس"}]}
