@@ -8,7 +8,7 @@ This repository contains the evaluation dataset used in:
 - `question_evaluation.json` — 100 annotated Arabic questions
 
 ## Citation
-[أضف citation الورقة بعد النشر]
+
 
 ## License
 CC 1.0
